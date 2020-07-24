@@ -11,7 +11,7 @@ _Regression is a form of predictive modelling technique which investigates the r
 ## Undestanding Linear Regression
 
 <p align="center"><img src="linear-regression.png" width="45%" height="45%"></p> 
-<h6 align="center">Example of how work linear regression algorithm steb by steb.</h6>
+<h6 align="center">Example of how work linear regression algorithm step by step.</h6>
 
 
 ## Getting Started
