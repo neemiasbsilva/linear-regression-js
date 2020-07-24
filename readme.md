@@ -6,7 +6,7 @@ The dataset was available on [kaggle compettion - head brain](https://www.kaggle
 
 ## What is Regression?
 
-    Regression is analysis is a form of predictive modelling technique which investigates the relationship between a dependent and independent variable
+_Regression is a form of predictive modelling technique which investigates the relationship between a dependent and independent variable_
 
 ## Undestanding Linear Regression
 
